@@ -23,7 +23,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/malarache" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="malarache" height="30" width="40" /></a>
+<a href="https://twitter.com/malarache1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="malarache" height="30" width="40" /></a>
 <a href="https://instagram.com/adolfhitler_off" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="adolfhitler_off" height="30" width="40" /></a>
 <a href="https://www.behance.net/admin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="admin" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/cyprien" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="cyprien" height="30" width="40" /></a>
